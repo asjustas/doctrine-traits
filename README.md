@@ -1,7 +1,7 @@
 # Doctrine traits
 
-[![Latest Stable Version](https://poser.pugx.org/asjustas/doctrine-traits/v/stable.svg)](https://packagist.org/packages/asjustas/doctrine-traits)
-[![Latest Unstable Version](https://poser.pugx.org/asjustas/doctrine-traits/v/unstable.svg)](https://packagist.org/packages/asjustas/doctrine-traits)
+[![Latest Stable Version](https://poser.pugx.org/asjustas/doctrine-traits/v/stable)](https://packagist.org/packages/asjustas/doctrine-traits)
+[![Latest Unstable Version](https://poser.pugx.org/asjustas/doctrine-traits/v/unstable)](https://packagist.org/packages/asjustas/doctrine-traits)
 
 Traits to help now write same code again.
 

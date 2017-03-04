@@ -1,0 +1,26 @@
+{
+    "name": "asjustas/doctrine-traits",
+    "description": "Trait to help work with doctrine",
+    "license": "MIT",
+    "type": "library",
+    "homepage": "https://github.com/asjustas/doctrine-traits",
+    "authors": [
+        {
+            "name": "Justas Vitaitis",
+            "email": "justas@u3.lt"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "doctrine/orm": "2.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AJ\\Doctrine\\Traits\\": "src",
+            "AJ\\Doctrine\\Traits\\Tests\\": "tests"
+        }
+    }
+}
